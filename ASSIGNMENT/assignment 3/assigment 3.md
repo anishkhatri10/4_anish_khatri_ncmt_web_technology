@@ -155,7 +155,7 @@
             A clean URL structure enhances both user experience and search engine visibility.
 
 
-                                    The END
+                                  ...........The END.......................
 
 
 
