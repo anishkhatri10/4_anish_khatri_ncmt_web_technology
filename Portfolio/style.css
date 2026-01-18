@@ -4,9 +4,32 @@
     font-family: 'Times New Roman', Times, serif;
     background-color: #0F172A;
 }
-
+/* Navbar CSS */
 .navbar {
     background-color: white;
     display: flex;
     position: fixed;
+}
+.logo {
+    padding: 10px;
+}
+.navlist{
+
+}
+ li {
+    list-style: none;
+    display: inline;
+    margin: 25px;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: beige;
+}
+a:hover {
+    color: chartreuse;
+}
+.navul{
+    padding-left: 200px;
+    padding-top: 50px;
 }
