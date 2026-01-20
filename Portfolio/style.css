@@ -60,8 +60,13 @@ button {
 
 /*home page css */ 
 
-span {
+.ht_a {
     color: #18C3E6;
-    f
+    margin-left: 110px;
+    font-size: 18px;   
+}
+.ab_a {
+    margin-left: 100px;
+    font-size: 50px;
 }
 
