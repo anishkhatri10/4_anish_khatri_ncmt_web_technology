@@ -46,7 +46,11 @@ a:hover {
     color: blue;
 }
 button {
-    font-size: 29px;
+    height: 40px;
+    width: 120px;
+    font-size: 25px;
     margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 1px;
 }
 
