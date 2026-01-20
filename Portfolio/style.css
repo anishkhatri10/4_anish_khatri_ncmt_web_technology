@@ -14,15 +14,14 @@ body {
    height: 80px;
    display: flex;
    align-items: center;
-   gap: 100px;
+   gap: 50px;
    padding: 0 50px;
    background-color: #0F172A;
+   border-bottom: solid;
 }
 .logo {
-   height: 70px;
-   width: auto;
-   margin-left: 100px;
-   margin-top: 20px;
+    font-size: 40px;
+   margin-left: 110px;
 }
 .navul{
     display: flex;
@@ -30,7 +29,6 @@ body {
     padding: 10px 150px;
     background-color: #2b2c30;
     border-radius: 20px;
-    margin-top: 20px;
     border: solid;
     border-color: #2b2c30;
 }
@@ -49,8 +47,8 @@ button {
     height: 40px;
     width: 120px;
     font-size: 25px;
-    margin-top: 20px;
     border-radius: 20px;
-    margin-left: 1px;
+    margin-left: 19px;
+    background-color: blue;
 }
 
