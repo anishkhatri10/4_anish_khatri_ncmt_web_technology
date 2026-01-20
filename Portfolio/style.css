@@ -14,14 +14,19 @@ body {
    height: 80px;
    display: flex;
    align-items: center;
-   gap: 50px;
+   gap: 80px;
    padding: 0 50px;
    background-color: #0F172A;
    border-bottom: solid;
+   border-color: #18C3E6;
 }
 .logo {
     font-size: 40px;
-   margin-left: 110px;
+   margin-left: 50px;
+}
+.dot {
+    color: #18C3E6;
+    font-size: 60px;
 }
 .navul{
     display: flex;
@@ -49,6 +54,6 @@ button {
     font-size: 25px;
     border-radius: 20px;
     margin-left: 19px;
-    background-color: blue;
+    background-color: #18C3E6;
 }
 
