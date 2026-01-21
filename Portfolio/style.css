@@ -83,5 +83,8 @@ button {
  }
 
  /*add the css for the photo */
- 
+ .pto1 {
+    height: 50px;
+    width: 100px;
+ }
 
