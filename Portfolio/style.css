@@ -47,7 +47,7 @@ a {
     color: azure;
 }
 a:hover {
-    color: blue;
+    color: #18C3E6;
 }
 button {
     height: 40px;
@@ -61,6 +61,8 @@ button {
 /*home page css */ 
 .intro {
     margin-left: 110px;
+    height: 200px;
+    width: 500px;
 }
 .ht_a {
     color: #18C3E6;
@@ -70,9 +72,13 @@ button {
     font-size: 50px;
 }
 .ab_b {
-    font-size: 50px;
-}
+    color: #18C3E6;
+    font-size: 80px;
+    font-weight: bolder;
+    
+ }
  .ab_c {
     color: #18C3E6;
+    font-size: 25px;
  }
 
