@@ -45,6 +45,7 @@ a {
     text-decoration: none;
     font-size: 20px;
     color: azure;
+  
 }
 a:hover {
     color: #18C3E6;
@@ -57,6 +58,15 @@ button {
     margin-left: 19px;
     background-color: #18C3E6;
     color: #2b2c30;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: 0.3s ease;
+}
+
+button:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 30px rgba(0, 255, 255, 0.15);
+
 }
 
 /*home page css and contener1 */
@@ -140,5 +150,10 @@ button {
   font-size: 14px;
   color: #cfd8dc;
   letter-spacing: 0.5px;
+}
+
+.bt_1 {
+    margin-left: 110px;
+    margin-top: 50px;
 }
 
