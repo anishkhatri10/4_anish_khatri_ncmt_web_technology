@@ -101,3 +101,44 @@ button {
     border-radius: 30px;
  }
 
+ /*css for the cards*/
+ .stats {
+  display: flex;
+  gap: 80px;
+  margin-left: 100px;
+}
+
+.stat-card {
+  width: 80px;
+  height: 60px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  text-align: center;
+  padding: 30px 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: 0.3s ease;
+  margin-top: 500px;
+}
+
+.stat-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 30px rgba(0, 255, 255, 0.15);
+}
+
+.stat-card h2 {
+  font-size: 38px;
+  color: #00e5ff;
+  margin-bottom: 1px;
+}
+
+.stat-card h2 span {
+  font-size: 22px;
+}
+
+.stat-card p {
+  font-size: 14px;
+  color: #cfd8dc;
+  letter-spacing: 0.5px;
+}
+
