@@ -152,6 +152,11 @@ button:hover {
   letter-spacing: 0.5px;
 }
 /*add css for button*/
+.button_con {
+    display: flex;
+    gap: 50px;
+
+}
 
 .bt_1 {
     margin-left: 110px;
@@ -162,9 +167,14 @@ button:hover {
     padding-top: 10px;
     gap: 10px;
 }
-.icon_1 {
-    color: #2b2c30;
-}
 .bt_2 {
+    margin-top: 50px;
+    width: 190px;
+    background-color: #0F172A;
+    color: aliceblue;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
 
 }
