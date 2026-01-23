@@ -53,7 +53,7 @@ a:hover {
 button {
     height: 40px;
     width: 120px;
-    font-size: 25px;
+    font-size: 18px;
     border-radius: 20px;
     margin-left: 19px;
     background-color: #18C3E6;
@@ -156,5 +156,15 @@ button:hover {
 .bt_1 {
     margin-left: 110px;
     margin-top: 50px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    gap: 10px;
 }
+.icon_1 {
+    color: #2b2c30;
+}
+.bt_2 {
 
+}
