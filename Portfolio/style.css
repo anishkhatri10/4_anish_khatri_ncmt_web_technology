@@ -175,12 +175,36 @@ button:hover {
     padding-top: 10px;
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 10px;
 }
 /*css for icon*/
 .icon {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     margin-left: 110px;
-    margin-top: 50px;
+    margin-top: 35px;
+}
+.bt_wa {
+    height: 45px;
+    width: 45px;
+    border-radius: 7px;
+    background-color: #0F172A;
+}
+.bt_ld {
+      height: 45px;
+    width: 45px;
+    border-radius: 7px;
+    background-color: #0F172A;
+}
+.bt_ig {
+      height: 45px;
+    width: 45px;
+    border-radius: 7px;
+    background-color: #0F172A;
+}
+.bt_fb {
+      height: 45px;
+    width: 45px;
+    border-radius: 7px;
+    background-color: #0F172A;
 }
