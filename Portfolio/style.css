@@ -160,7 +160,7 @@ button:hover {
 
 .bt_1 {
     margin-left: 110px;
-    margin-top: 50px;
+    margin-top: 80px;
     width: 130px;
     display: flex;
     justify-content: center;
@@ -168,7 +168,7 @@ button:hover {
     gap: 10px;
 }
 .bt_2 {
-    margin-top: 50px;
+    margin-top: 80px;
     width: 190px;
     background-color: #0F172A;
     color: aliceblue;
@@ -176,5 +176,11 @@ button:hover {
     display: flex;
     justify-content: center;
     gap: 15px;
-
+}
+/*css for icon*/
+.icon {
+    display: flex;
+    gap: 10px;
+    margin-left: 110px;
+    margin-top: 50px;
 }
